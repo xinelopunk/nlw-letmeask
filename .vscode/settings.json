@@ -1,0 +1,54 @@
+{
+    "cSpell.words": [
+      "letmeask",
+      "preconnect"
+    ],
+
+    "editor.fontFamily": "Consolas",
+    "editor.tabSize": 2,
+    "editor.fontSize": 16,
+    "editor.lineHeight": 26,
+    "editor.fontLigatures": true,
+    "editor.semanticHighlighting.enabled": false,
+    "explorer.compactFolders": false,
+    "editor.renderLineHighlight": "gutter",
+    "workbench.editor.labelFormat": "short",
+    "extensions.ignoreRecommendations": true,
+  
+    "breadcrumbs.enabled": true,
+    "editor.parameterHints.enabled": false,
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    
+    "editor.rulers": [80, 120],
+    
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    },
+    
+    "cSpell.enableFiletypes": [
+        "!asciidoc",
+        "!c",
+        "!cpp",
+        "!csharp",
+        "!go",
+        "!handlebars",
+        "!haskell",
+        "!jade",
+        "!java",
+        "!latex",
+        "!php",
+        "!pug",
+        "!python",
+        "!restructuredtext",
+        "!rust",
+        "!scala",
+        "!scss"
+      ],
+    "cSpell.language": "en,pt",
+    "editor.suggestSelection": "first",
+    "codesnap.backgroundColor": "transparent",
+    "codesnap.transparentBackground": true,
+    "codesnap.boxShadow": "0 0 0",
+    "liveServer.settings.donotVerifyTags": true,
+}
